@@ -1,7 +1,9 @@
-## Qubase
+## Qub△se
 
 **We secure how you use AI.**  
 A security gateway for enterprises adopting LLMs.
+Grounded in Quantum, AI, and Cybersecurity.
+
 
 ---
 
