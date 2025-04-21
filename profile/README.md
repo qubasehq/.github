@@ -1,71 +1,54 @@
-## Qubase — We secure how you use AI
+## Qubase
 
-
-Most companies are racing to adopt AI. Very few are prepared for what comes next.
-
----
-
-### What We're Doing
-
-Qubase is building the security layer for generative AI in the enterprise.
-
-We’re not adapting old security tools. We’re designing new ones—purpose-built to detect, redact, and control what’s flowing in and out of LLMs. Sensitive data, compliance boundaries, and AI misuse aren’t theoretical risks anymore. They’re happening daily. And most teams have no idea.
-
-Qubase provides:
-
-- A real-time protection layer between users and AI systems  
-- Redaction of sensitive inputs and outputs (PII, PHI, financials, trade secrets)  
-- Central governance for AI usage across tools like ChatGPT, Claude, and Bard  
-- Policy enforcement, risk analytics, and compliance reporting  
+**We secure how you use AI.**  
+A security gateway for enterprises adopting LLMs.
 
 ---
 
-### Why This Matters
+### The Problem
 
-AI is being embedded into every tool, team, and workflow. The average enterprise already uses dozens of AI-enabled products—many without proper oversight. Shadow AI is growing faster than shadow IT ever did.
+AI is being adopted faster than it can be secured.
 
-Security teams are being asked to secure something they can’t see. That’s the problem we’re solving.
+Most companies have no control over what data is going into tools like ChatGPT, Claude, or Copilot — and no visibility into what’s coming back out.
 
----
-
-### Who This Is For
-
-We work with security-conscious organizations that want to embrace AI without compromising control. That includes:
-
-- Enterprises in regulated industries  
-- Security leaders dealing with AI governance pressure  
-- Teams building AI features into their own products  
-- Anyone who needs to make AI safe, not just available  
+Sensitive code, PII, credentials, and proprietary logic are being exposed daily. Existing security tools can’t see it, can’t stop it, and weren’t built for this.
 
 ---
 
-### What We Believe
+### What We’re Building
 
-AI is not a feature. It’s an architectural shift.
+Qubase is an AI Security Gateway that:
 
-Security needs to meet it at that level. That means thinking in terms of:
+- Intercepts traffic between users and LLMs
+- Detects and controls sensitive data exposure
+- Enforces org-level AI usage policies
+- Works across AI platforms, without vendor lock-in
 
-- **Dynamic content protection**, not static filters  
-- **Policy logic**, not just perimeter defense  
-- **Interoperability across AI vendors**, not vendor lock-in  
-- **Deployment speed**, because AI adoption is not slowing down  
+No endpoint agents, no heavy integration, no disruption to how teams work.
 
-We aren’t chasing the threat of the week. We're building the foundation.
+---
+
+### Who It's For
+
+- Security teams looking for control without slowing AI adoption  
+- Enterprises under regulatory pressure (GDPR, HIPAA, etc.)  
+- Builders embedding AI in products who want safe defaults  
 
 ---
 
 ### Where We're Going
 
-Our roadmap includes:
+We're focused on:
 
-- Developer SDKs for embedding AI safety at the application layer  
-- Vertical-specific protections for healthcare, finance, and legal  
-- Threat detection for prompt injection, jailbreaks, and LLM abuse  
-- Contributions to regulatory frameworks and industry standards  
+- Real-time data classification and redaction  
+- Policy-based control across LLM vendors  
+- Full audit visibility into AI interactions  
+- SDKs for developer-facing use  
+
+We're early. We're building. We're talking to teams facing this problem right now.
 
 ---
 
-We're early, but the signals are clear. AI-native security will define the next generation of infrastructure. We're building for that.
+Get in touch if you're one of them.
 
-If you're working on anything related—AI, security, compliance, infrastructure—we’d love to connect.
-
+https://www.linkedin.com/in/csarath112/
