@@ -27,7 +27,6 @@ We work across AI/ML, Cybersecurity, and Quantum Computing to build solutions th
 ## Contact
 
 LinkedIn: [Sarath Babu](https://www.linkedin.com/in/csarath112/)  
-Email: your-email-here  
 
 ---
 
